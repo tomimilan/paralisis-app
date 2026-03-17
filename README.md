@@ -28,7 +28,8 @@ Toda la información se guarda localmente en el dispositivo, sin necesidad de co
 
 1. Descargar el archivo APK desde el siguiente enlace:
 
-👉 **[Descargar APK](PEGAR_ACÁ_EL_LINK_DEL_APK)**
+👉 **[Descargar APK](https://expo.dev/accounts/tomimilan/projects/paralisis-app/builds/0ad3b5bf-a501-406a-9a58-f37fc663ab97
+)**
 
 2. Abrir el archivo en tu dispositivo Android
 3. Permitir la instalación de aplicaciones desconocidas (si es necesario)

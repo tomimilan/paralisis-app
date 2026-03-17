@@ -1,6 +1,6 @@
 # 📱 Contador de Parálisis del Sueño
 
-## 🧠 Descripción
+## Descripción
 
 Aplicación mobile simple desarrollada con React Native (Expo) que permite registrar episodios de parálisis del sueño de forma rápida y práctica.
 
@@ -14,7 +14,7 @@ Toda la información se guarda localmente en el dispositivo, sin necesidad de co
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Botón principal para registrar episodios rápidamente
 * Contador en tiempo real
@@ -24,7 +24,7 @@ Toda la información se guarda localmente en el dispositivo, sin necesidad de co
 
 ---
 
-## 📲 Instalación
+## Instalación
 
 1. Descargar el archivo APK desde el siguiente enlace:
 
@@ -36,7 +36,7 @@ Toda la información se guarda localmente en el dispositivo, sin necesidad de co
 
 ---
 
-## 📖 Cómo usar la app
+## Cómo usar la app
 
 1. Abrí la aplicación
 2. (Opcional) Escribí una descripción del episodio
@@ -49,7 +49,7 @@ Para ver el historial:
 
 ---
 
-## ⚠️ Consideraciones
+## Consideraciones
 
 * Los datos se guardan únicamente en tu dispositivo
 * Si desinstalás la app, se perderán los registros
@@ -57,7 +57,7 @@ Para ver el historial:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * React Native
 * Expo
@@ -65,14 +65,14 @@ Para ver el historial:
 
 ---
 
-## 📌 Estado del proyecto
+## Estado del proyecto
 
 MVP funcional orientado a uso personal.
 Pensado para ser simple, rápido y práctico.
 
 ---
 
-## 🚀 Posibles mejoras futuras
+## Posibles mejoras futuras
 
 * Estadísticas (por semana/mes)
 * Backup en la nube
@@ -81,4 +81,4 @@ Pensado para ser simple, rápido y práctico.
 
 ---
 
-💡 Proyecto creado con fines de aprendizaje y uso personal.
+Proyecto creado con fines de aprendizaje y uso personal.

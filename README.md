@@ -1,50 +1,84 @@
-# Welcome to your Expo app 👋
+# 📱 Contador de Parálisis del Sueño
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🧠 Descripción
 
-## Get started
+Aplicación mobile simple desarrollada con React Native (Expo) que permite registrar episodios de parálisis del sueño de forma rápida y práctica.
 
-1. Install dependencies
+El objetivo de la app es ayudarte a llevar un seguimiento personal de estos episodios, guardando:
 
-   ```bash
-   npm install
-   ```
+* 📅 Fecha automática
+* 📝 Descripción opcional del episodio
+* 🔢 Contador total
 
-2. Start the app
+Toda la información se guarda localmente en el dispositivo, sin necesidad de conexión a internet.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🚀 Funcionalidades
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+* Botón principal para registrar episodios rápidamente
+* Contador en tiempo real
+* Campo opcional para describir la experiencia
+* Historial de registros
+* Persistencia de datos (aunque cierres la app)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📲 Instalación
 
-When you're ready, run:
+1. Descargar el archivo APK desde el siguiente enlace:
 
-```bash
-npm run reset-project
-```
+👉 **[Descargar APK](PEGAR_ACÁ_EL_LINK_DEL_APK)**
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Abrir el archivo en tu dispositivo Android
+3. Permitir la instalación de aplicaciones desconocidas (si es necesario)
+4. Instalar la aplicación
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📖 Cómo usar la app
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+1. Abrí la aplicación
+2. (Opcional) Escribí una descripción del episodio
+3. Presioná el botón **"TUVE UNA"**
+4. El episodio se guardará automáticamente con la fecha actual
 
-## Join the community
+Para ver el historial:
 
-Join our community of developers creating universal apps.
+* Tocá en **"Ver historial"**
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## ⚠️ Consideraciones
+
+* Los datos se guardan únicamente en tu dispositivo
+* Si desinstalás la app, se perderán los registros
+* No requiere conexión a internet
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* React Native
+* Expo
+* AsyncStorage
+
+---
+
+## 📌 Estado del proyecto
+
+MVP funcional orientado a uso personal.
+Pensado para ser simple, rápido y práctico.
+
+---
+
+## 🚀 Posibles mejoras futuras
+
+* Estadísticas (por semana/mes)
+* Backup en la nube
+* Exportación de datos
+* Notificaciones o recordatorios
+
+---
+
+💡 Proyecto creado con fines de aprendizaje y uso personal.
